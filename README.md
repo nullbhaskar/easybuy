@@ -156,6 +156,8 @@ The codebase implements strict separation of concerns, declarative unidirectiona
 
 ---
 
-## License
+## License & Attribution
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full terms.
+Copyright © 2026 Bhaskar Das. All rights reserved.
+
+Engineered as an enterprise mobile commerce showcase project.
