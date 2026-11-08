@@ -156,6 +156,8 @@ The codebase implements strict separation of concerns, declarative unidirectiona
 
 ---
 
+---
+
 ## License & Attribution
 
 Copyright © 2026 Bhaskar Das. All rights reserved.
