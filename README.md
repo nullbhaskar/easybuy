@@ -25,11 +25,11 @@ The codebase implements strict separation of concerns, declarative unidirectiona
 
 <div align="center">
   <table style="border: none; background-color: transparent;">
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img2.png" width="160" style="border-radius: 12px;" />
-        <br /><br /><b>Storefront & Discovery</b>
-        <br /><small>Curated Regional Feed & Quick Commerce</small>
+    <tr valign="top">
+      <td align="center" width="22%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/home-composite.png" width="180" style="border-radius: 12px;" />
+        <br /><br /><b>Home Page</b>
+        <br /><small>Dynamic Cultural Banners (Ganesh Utsav) & Regional Gurgaon Curation</small>
       </td>
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/ai-assistant.png" width="160" style="border-radius: 12px;" />
