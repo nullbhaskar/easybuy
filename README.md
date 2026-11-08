@@ -32,9 +32,9 @@ The codebase implements strict separation of concerns, declarative unidirectiona
         <br /><small>Curated Regional Feed & Quick Commerce</small>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img3.png" width="160" style="border-radius: 12px;" />
-        <br /><br /><b>AI Shopping Concierge</b>
-        <br /><small>Catalog-Grounded Chat & Voice Support</small>
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/ai-assistant.png" width="160" style="border-radius: 12px;" />
+        <br /><br /><b>AI Assistant & Suggester</b>
+        <br /><small>Context-Aware Support & Product Discovery</small>
       </td>
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/otp.png" width="160" style="border-radius: 12px;" />
