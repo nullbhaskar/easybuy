@@ -26,30 +26,38 @@ The codebase implements strict separation of concerns, declarative unidirectiona
 <div align="center">
   <table style="border: none; background-color: transparent;">
     <tr valign="top">
-      <td align="center" width="22%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/home-composite.png" width="180" style="border-radius: 12px;" />
-        <br /><br /><b>Home Page</b>
-        <br /><small>Dynamic Cultural Banners (Ganesh Utsav) & Regional Gurgaon Curation</small>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/home-festive.png" width="230" style="border-radius: 12px;" />
+        <br /><br /><b>Home Page: Dynamic Banner</b>
+        <br /><small>Cultural Festive Campaigns & Ganesh Utsav Specials</small>
       </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/ai-assistant.png" width="160" style="border-radius: 12px;" />
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/home-curated.png" width="230" style="border-radius: 12px;" />
+        <br /><br /><b>Home Page: Regional Feed</b>
+        <br /><small>Hyper-Local Catalog Curated for Gurgaon</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/ai-assistant.png" width="230" style="border-radius: 12px;" />
         <br /><br /><b>AI Assistant & Suggester</b>
         <br /><small>Context-Aware Support & Product Discovery</small>
       </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/otp.png" width="160" style="border-radius: 12px;" />
+    </tr>
+    <tr><td colspan="3"><br /></td></tr>
+    <tr valign="top">
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/otp.png" width="230" style="border-radius: 12px;" />
         <br /><br /><b>Transactional Security</b>
         <br /><small>Email OTP, Password Reset & Receipts</small>
       </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/admin-edit-product.png" width="160" style="border-radius: 12px;" />
-        <br /><br /><b>On-Device Store Admin</b>
-        <br /><small>Real-Time Pricing & Inventory Controls</small>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/geospatial-map.png" width="160" style="border-radius: 12px;" />
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/geospatial-map.png" width="230" style="border-radius: 12px;" />
         <br /><br /><b>Geospatial Fulfillment</b>
         <br /><small>Interactive Real-Time Delivery Pinning</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/admin-edit-product.png" width="230" style="border-radius: 12px;" />
+        <br /><br /><b>On-Device Store Admin</b>
+        <br /><small>Real-Time Pricing & Inventory Controls</small>
       </td>
     </tr>
   </table>
