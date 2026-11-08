@@ -26,25 +26,30 @@ The codebase implements strict separation of concerns, declarative unidirectiona
 <div align="center">
   <table style="border: none; background-color: transparent;">
     <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img2.png" width="195" style="border-radius: 12px;" />
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img2.png" width="160" style="border-radius: 12px;" />
         <br /><br /><b>Storefront & Discovery</b>
         <br /><small>Curated Regional Feed & Quick Commerce</small>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img3.png" width="195" style="border-radius: 12px;" />
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/img3.png" width="160" style="border-radius: 12px;" />
         <br /><br /><b>AI Shopping Concierge</b>
         <br /><small>Catalog-Grounded Chat & Voice Support</small>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/otp.png" width="195" style="border-radius: 12px;" />
-        <br /><br /><b>Transactional Email Security</b>
-        <br /><small>Email OTP, Password Recovery & Instant Receipts</small>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/otp.png" width="160" style="border-radius: 12px;" />
+        <br /><br /><b>Transactional Security</b>
+        <br /><small>Email OTP, Password Reset & Receipts</small>
       </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/admin-edit-product.png" width="195" style="border-radius: 12px;" />
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/admin-edit-product.png" width="160" style="border-radius: 12px;" />
         <br /><br /><b>On-Device Store Admin</b>
         <br /><small>Real-Time Pricing & Inventory Controls</small>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/nullbhaskar/easybuy/main/screenshots/geospatial-map.png" width="160" style="border-radius: 12px;" />
+        <br /><br /><b>Geospatial Fulfillment</b>
+        <br /><small>Interactive Real-Time Delivery Pinning</small>
       </td>
     </tr>
   </table>
